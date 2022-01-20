@@ -6,8 +6,8 @@ import sys
 #set your data_set absolute path
 #as for me, for example 
 # test example
-kitti_img_path ='/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/'
-kitti_label_path = '/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/lables/'
+kitti_img_path ='/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/'
+kitti_label_path = '/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/lables/'
 
 
 
@@ -15,7 +15,7 @@ kitti_label_path = '/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kit
 kitti_label_tosave_path = 'kitti/labels2coco/'
 
 #the absolute ptah of your data set
-#kitti_data_real_path = '/home/pakcy/Desktop/PyTorch-YOLOv3/data/kitti/images/train/'
+#kitti_data_real_path = '/Users/detinin/Desktop/PyTorch-YOLOv3/data/kitti/images/train/'
 
 index = 0
 cvfont = cv2.FONT_HERSHEY_SIMPLEX

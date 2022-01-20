@@ -1,5 +1,5 @@
-/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000000.png
-/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000008.png
-/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000016.png
-/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000024.png
-/home/pakcy/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000032.png
+/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000000.png
+/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000008.png
+/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000016.png
+/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000024.png
+/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/000032.png
