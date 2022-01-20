@@ -6,8 +6,8 @@ import sys
 #set your data_set absolute path
 #as for me, for example 
 # test example
-kitti_img_path ='/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/images/'
-kitti_label_path = '/Users/detinin/Desktop/PyTorch-YOLOv3-kitti/label_transform/kitti/lables/'
+kitti_img_path ='/Users/detinin/Desktop/PyTorch-YOLOv3/label_transform/kitti/images/'
+kitti_label_path = '/Users/detinin/Desktop/PyTorch-YOLOv3/label_transform/kitti/lables/'
 
 
 
